@@ -5,6 +5,11 @@
 //  Created by Christine Buell on 12/7/17.
 //  Copyright © 2017 Christine Buell. All rights reserved.
 //
+//  Homework chpt3:
+//  #1.1:
+//  #1.2: fadeAlpha
+//  #1.3: You use custom actions to make your own action sequence outside of the predefined ones
+//        that Spritekit has
 
 import UIKit
 
