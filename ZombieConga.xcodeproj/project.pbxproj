@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1F06BE7F202E26F0002629C0 /* GLIMSTIC.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 1F06BE7E202E26F0002629C0 /* GLIMSTIC.TTF */; };
 		1F0C84D9201A56E4008D0C77 /* GameOverScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F0C84D8201A56E4008D0C77 /* GameOverScene.swift */; };
 		1F53AC382029483F008014FF /* win.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1F53AC332029483E008014FF /* win.wav */; };
 		1F53AC392029483F008014FF /* lose.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1F53AC342029483E008014FF /* lose.wav */; };
@@ -24,6 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1F06BE7E202E26F0002629C0 /* GLIMSTIC.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = GLIMSTIC.TTF; sourceTree = "<group>"; };
 		1F0C84D8201A56E4008D0C77 /* GameOverScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameOverScene.swift; sourceTree = "<group>"; };
 		1F53AC332029483E008014FF /* win.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = win.wav; sourceTree = "<group>"; };
 		1F53AC342029483E008014FF /* lose.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = lose.wav; sourceTree = "<group>"; };
@@ -86,6 +88,7 @@
 		1FDC18661FD9D9130066E1E0 /* ZombieConga */ = {
 			isa = PBXGroup;
 			children = (
+				1F06BE7E202E26F0002629C0 /* GLIMSTIC.TTF */,
 				1F53AC322029483E008014FF /* Sounds */,
 				1FDC18671FD9D9130066E1E0 /* AppDelegate.swift */,
 				1FDC186D1FD9D9130066E1E0 /* GameScene.swift */,
@@ -159,6 +162,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1F06BE7F202E26F0002629C0 /* GLIMSTIC.TTF in Resources */,
 				1FDC18731FD9D9130066E1E0 /* Main.storyboard in Resources */,
 				1F53AC392029483F008014FF /* lose.wav in Resources */,
 				1FDC18751FD9D9130066E1E0 /* Assets.xcassets in Resources */,
